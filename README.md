@@ -1,2 +1,2 @@
 # BeagleDog
-my first html project its contain html
+My first html project 
